@@ -1,2 +1,2 @@
 path: "knn_model.joblib"
-features: ['body_mass_g', 'bill_depth_mm'] # You are allowed to add only two features.
+features: ['body_mass_g', 'flipper_length_mm'] # You are allowed to add only two features.
